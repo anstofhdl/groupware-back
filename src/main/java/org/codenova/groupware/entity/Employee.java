@@ -27,6 +27,6 @@ public class Employee {
 
     private String position;
 
-    private String activee;
+    private String active;
 
 }
